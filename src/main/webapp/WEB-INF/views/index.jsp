@@ -52,7 +52,7 @@
     </div>
 
     <footer>
-      <p class="footer-contents">Training AWS<a href="https://aws.amazon.com/careers/devtools-jobs/">♥</a> AWS</p>
+      <p class="footer-contents">Training on <a href="https://aws.amazon.com/careers/devtools-jobs/">♥</a> AWS</p>
     </footer>
 
     <script src={$setBackgroundJs}"></script>
